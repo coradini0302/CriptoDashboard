@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "API.Controllers.CryptoController",
+    "Method": "StartMonitoring",
+    "RelativePath": "api/crypto/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.CryptoController",
+    "Method": "StopMonitoring",
+    "RelativePath": "api/crypto/stop",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

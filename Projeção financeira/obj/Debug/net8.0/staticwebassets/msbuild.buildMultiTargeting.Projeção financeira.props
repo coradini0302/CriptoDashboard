@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeção financeira.props" />
+</Project>

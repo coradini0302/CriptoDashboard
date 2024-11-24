@@ -1,0 +1,47 @@
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\API\appsettings.Development.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\API\appsettings.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\API\obj\API.csproj.nuget.dgspec.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\API\obj\project.assets.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\API\Properties\launchSettings.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Application\obj\Application.csproj.nuget.dgspec.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Application\obj\project.assets.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\appsettings.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Core\obj\Core.csproj.nuget.dgspec.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Core\obj\project.assets.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Infrastructure\obj\Infrastructure.csproj.nuget.dgspec.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Infrastructure\obj\project.assets.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.staticwebassets.endpoints.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.exe
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.deps.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Projeção financeira.pdb
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\scopedcss\bundle\Projeção financeira.styles.css
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets\msbuild.Projeção financeira.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets\msbuild.Projeção financeira.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeção financeira.props
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeção financeira.props
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeção financeira.props
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Proje__o.B6109F8F.Up2Date
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\refint\Projeção financeira.dll
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.pdb
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\Projeção financeira.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Projeção financeira\obj\Debug\net8.0\ref\Projeção financeira.dll
